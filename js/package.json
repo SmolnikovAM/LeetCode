@@ -12,6 +12,8 @@
     "jest": "^23.6.0"
   },
   "jest": {
-    "testMatch": ["**/(spec|test).*.js"]
+    "testMatch": [
+      "**/(spec|test).*.js"
+    ]
   }
 }
