@@ -12,4 +12,4 @@ const mtx = [
   ['.', '.', '.', '2', '7', '5', '9', '.', '.'],
 ];
 
-solution(mtx);
+console.log(solution(mtx));
